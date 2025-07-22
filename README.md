@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![Assembly](https://img.shields.io/badge/Language-Assembly-red?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com/saadoxyz/assembly-programs)
+[![Assembly](https://img.shields.io/badge/Language-Assembly-red?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com/saadoxyz/Assembly-language-mini-projects)
 [![MASM](https://img.shields.io/badge/Assembler-MASM-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/cpp/assembler/masm/)
 [![x86](https://img.shields.io/badge/Architecture-x86-green?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86)
 [![DOSBox](https://img.shields.io/badge/Environment-DOSBox-orange?style=for-the-badge&logo=dos&logoColor=white)](https://www.dosbox.com/)
 
-[![GitHub stars](https://img.shields.io/github/stars/saadoxyz/assembly-programs?style=social)](https://github.com/saadoxyz/assembly-programs)
-[![GitHub forks](https://img.shields.io/github/forks/saadoxyz/assembly-programs?style=social)](https://github.com/saadoxyz/assembly-programs/fork)
-[![GitHub issues](https://img.shields.io/github/issues/saadoxyz/assembly-programs?color=red&style=flat-square)](https://github.com/saadoxyz/assembly-programs/issues)
+[![GitHub stars](https://img.shields.io/github/stars/saadoxyz/assembly-programs?style=social)](https://github.com/saadoxyz/Assembly-language-mini-projects)
+[![GitHub forks](https://img.shields.io/github/forks/saadoxyz/assembly-programs?style=social)](https://github.com/saadoxyz/Assembly-language-mini-projects/fork)
+[![GitHub issues](https://img.shields.io/github/issues/saadoxyz/assembly-programs?color=red&style=flat-square)](https://github.com/saadoxyz/Assembly-language-mini-projects/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 </div>
